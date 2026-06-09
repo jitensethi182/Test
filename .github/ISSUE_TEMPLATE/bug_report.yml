@@ -1,7 +1,0 @@
-name: Bug Report
-description: Report a Bug
-title: "[Bug]: "
-body:
-  -type: input
-  validations:
-    required: true
